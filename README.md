@@ -1,4 +1,4 @@
-# Static Muskan Book Code
+# Static Amelia Book Code
 
 This repository contains the files for a simple static website designed to display the content of a book. The website includes a table of contents for easy navigation and allows readers to toggle between a light and dark theme for their reading preference.
 
